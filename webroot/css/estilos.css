@@ -108,8 +108,8 @@ body {
     margin: 0;
 }
 .curso-badge {
-    background: white;
-    color: var(--color-principal);
+    background:#2C3E50;
+    color:white;
     padding: 4px 12px;
     border-radius: 20px;
     font-size: 0.85rem;
